@@ -1,2 +1,2 @@
-# hello-maven2
-# hello-maven2
+# Hello-Maven2
+Maven project for Azure Pipelines
